@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Chiranjit Saha
+
+🎓 BTech ECE @ IIIT G 
+💻 Passionate about AI , ML and Backend Dev  
+
+You can see my projects here. I am passionate in tech and wish to use tech for the betterment of the world.
+
+##TECH FOR THE BETTER
 
 <!--
 **Chiranjit680/Chiranjit680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
