@@ -3,9 +3,9 @@
 🎓 BTech ECE @ IIIT G 
 💻 Passionate about AI , ML and Backend Dev  
 
-You can see my projects here. I am passionate in tech and wish to use tech for the betterment of the world.
+You can see my projects here. I LOVE tech and wish to use tech for the betterment of the world.
 
-##TECH FOR THE BETTER
+#TECH FOR THE BETTER
 
 <!--
 **Chiranjit680/Chiranjit680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
