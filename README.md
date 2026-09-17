@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 BTech ECE @ IIIT G<br>
- Upcoming Summer Intern @Oracle<br>
+ Ex-Summer Intern @Oracle<br>
 💻 Passionate about AI , ML and Backend Dev<br><br><br>You can see my projects here. I LOVE tech and wish to use tech for the betterment of the world.<br><br>#TECH FOR THE BETTER
 
 
